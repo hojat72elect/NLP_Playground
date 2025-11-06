@@ -1,0 +1,10 @@
+{
+  "name": "nlp_playground",
+  "version": "0.0.1",
+  "description": "",
+  "main": ".src/Main.js",
+  "scripts": {
+    "start": "node ./src/Main.js"
+  },
+  "private": true
+}
