@@ -5,7 +5,7 @@
   "main": ".src/Main.js",
   "type": "module",
   "scripts": {
-    "start": "node ./src/Main.js"
+    "start": "node src/example1_tokens.js"
   },
   "private": true,
   "dependencies": {
