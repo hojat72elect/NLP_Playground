@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "",
   "main": ".src/Main.js",
+  "type": "module",
   "scripts": {
     "start": "node ./src/Main.js"
   },
